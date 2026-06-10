@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-oh-tpl/react-content-loader",
+  "name": "@react-native-ohos/react-content-loader",
   "version": "7.0.3",
   "description": "SVG-Powered component to easily create placeholder loadings (like Facebook cards loading)",
   "repository": {
